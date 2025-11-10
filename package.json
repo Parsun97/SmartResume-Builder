@@ -1,3 +1,5 @@
+"@react-pdf/renderer": "^3.1.14",
+
 {
   "name": "smartresume-builder",
   "version": "1.0.0",
@@ -16,3 +18,4 @@
     "tailwindcss": "^3.3.2"
   }
 }
+
